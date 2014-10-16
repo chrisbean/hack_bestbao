@@ -1,0 +1,26 @@
+/*
+Font: 		Grey Sans
+Style: 		Light
+URL: 		http://www.youworkforthem.com/font/T4209/grey-sans
+Foundry: 	GreyscaleType
+Foundry: 	http://www.youworkforthem.com/designer/352/greyscaletype
+Copyright:	Copyright (c) 2013 by GreyscaleType. All rights reserved.
+Version: 	1.5
+Created:	July 04, 2014
+License: 	http://www.youworkforthem.com/font-license 
+License: 	The WebFont(s) listed in this document must follow the YouWorkForThem
+			WebFont license rules. All other parties are strictly restricted 
+			from using the WebFonts(s) listed without a purchased license. 
+			All details above must always remain unaltered and visible in your CSS.
+*/
+
+@font-face {
+	font-family: 'GreySans-Light';
+	src: url('grey-sans-light.eot');
+	src: url('grey-sans-light.eot?#iefix') format('embedded-opentype'),
+	     url('grey-sans-light.woff') format('woff'),
+	     url('grey-sans-light.ttf') format('truetype'),
+	     url('grey-sans-light.svg#ywftsvg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
